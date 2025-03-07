@@ -1,0 +1,8 @@
+# Default ignored files
+/../../web-scraping /.idea/shelf/
+/../../web-scraping /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../web-scraping /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../web-scraping /.idea/dataSources/
+/../../web-scraping /.idea/dataSources.local.xml
